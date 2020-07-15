@@ -1,3 +1,5 @@
-yellow = (255, 255, 0)
-r, g, b = yellow
-print(r, g, b)
+# person = {"name": "Alice", "email": "alice@example.com"}
+# print(person['email'])
+
+x = None
+print(x)

@@ -1,5 +1,0 @@
-# \n is a new line; \t is a new tab
-
-# tuple is a Python datatype used for representing fixed width records. they behave like lists but are immutable*
-
-# Python has a dictionary datatype for representing name-value pairs

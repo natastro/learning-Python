@@ -44,7 +44,7 @@ Important to notice the difference between variables and strings. Spot the error
 
 %x/%X - Integers in hex representation (lowercase/uppercase)
 
---
+---
 
 ## Arithmetic
 

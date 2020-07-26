@@ -40,6 +40,6 @@ Important to notice the difference between variables and strings. Spot the error
 
 %f - Floating point numbers
 
-%.<number of digits>f - Floating point numbers with a fixed amount of digits to the right of the dot.
+%. 'number of digits' f - Floating point numbers with a fixed amount of digits to the right of the dot.
 
 %x/%X - Integers in hex representation (lowercase/uppercase)

@@ -44,7 +44,7 @@ Important to notice the difference between variables and strings. Spot the error
 
 %x/%X - Integers in hex representation (lowercase/uppercase)
 
----
+--
 
 ## Arithmetic
 
@@ -90,3 +90,53 @@ print(len(msg))
 print(msg.count('o'))
 ```
 
+---
+
+## Easier way to concatenate
+
+```
+name= input('What is your name?: ')
+age= input('What is your age?: ')
+msg= f'Hello {name}! You are {age} years old.'
+print(msg)
+```
+
+---
+
+To find an index:
+
+```
+friends= ['John', 'Michael', 'Terry', 'Eric', 'Graham']
+
+print(friends.index('Eric'))
+```
+
+---
+
+## Comparators
+
+```
+3 < 4
+5 >= 5
+10 == 10
+12 != 13
+```
+
+## Boolean operators
+
+```
+True or False 
+(3 < 4) and (5 >= 5)
+this() and not that()
+```
+
+## Conditional statements
+
+```
+if this_might_be_true():
+  print "This really is true."
+elif that_might_be_true():
+  print "That is true."
+else:
+  print "None of the above."
+```
